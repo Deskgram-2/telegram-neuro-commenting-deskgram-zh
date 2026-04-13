@@ -41,6 +41,13 @@
 - [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)，如果评论之后要继续进入私聊沟通。
 - [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh)，如果你还在搭建后续流程的数据基础。
 
+## 这个模块之后常见的延伸路径
+
+- [任务管理器](https://github.com/Deskgram-2/telegram-task-manager-deskgram-zh)，如果你要集中观察错误、节奏和执行结果。
+- [批量订阅](https://github.com/Deskgram-2/telegram-join-groups-deskgram-zh)，如果评论前后都要先准备社区环境。
+- [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)，如果评论活动属于更大的增长链路。
+- [代理管理](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-zh)，如果稳定性依赖基础设施层。
+
 ## 界面亮点
 
 ### 主界面
@@ -83,6 +90,10 @@
 - [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh)
 - [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)
 - [设置](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-zh)
+- [任务管理器](https://github.com/Deskgram-2/telegram-task-manager-deskgram-zh)
+- [批量订阅](https://github.com/Deskgram-2/telegram-join-groups-deskgram-zh)
+- [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)
+- [代理管理](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-zh)
 
 ## FAQ
 
