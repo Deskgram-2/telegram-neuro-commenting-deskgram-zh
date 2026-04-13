@@ -1,5 +1,7 @@
 # Deskgram 2 神经评论
 
+![Neuro Commenting Main](assets/screenshots/neuro-commenting__main__zh.png)
+
 神经评论是 Deskgram 2 中用于 Telegram 新帖自动评论的模块。它把帖子监听、模板评论、AI 改写、内容生成、限额、延迟、讨论区进入和后续回复逻辑放在同一个流程里。
 
 [Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
@@ -31,6 +33,24 @@
 3. 选择模板、改写或 AI 评论模式。
 4. 需要时启用讨论区处理和自动回复。
 5. 分配账号并启动任务。
+
+## 界面亮点
+
+### 主界面
+
+![Neuro Commenting Main Screen](assets/screenshots/neuro-commenting__main__zh.png)
+
+### 文本与评论构建
+
+![Neuro Commenting Messages](assets/screenshots/neuro-commenting__messages-tab__zh.png)
+
+### AI 设置
+
+![Neuro Commenting AI](assets/screenshots/neuro-commenting__ai-tab__zh.png)
+
+### 统计信息
+
+![Neuro Commenting Stats](assets/screenshots/neuro-commenting__stats__zh.png)
 
 ## 适合在什么情况下使用
 
