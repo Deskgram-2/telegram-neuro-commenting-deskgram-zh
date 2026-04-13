@@ -34,6 +34,13 @@
 4. 需要时启用讨论区处理和自动回复。
 5. 分配账号并启动任务。
 
+## 建议一起使用的模块
+
+- [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)，如果你需要先整理工作账号网格。
+- [设置](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-zh)，如果场景依赖 AI 提供商和系统级参数。
+- [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)，如果评论之后要继续进入私聊沟通。
+- [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh)，如果你还在搭建后续流程的数据基础。
+
 ## 界面亮点
 
 ### 主界面
@@ -74,6 +81,8 @@
 - [Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh)
 - [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)
 - [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh)
+- [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)
+- [设置](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-zh)
 
 ## FAQ
 
