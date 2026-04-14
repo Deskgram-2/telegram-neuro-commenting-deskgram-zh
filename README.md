@@ -83,6 +83,29 @@
 | 多账号扩展很混乱 | 工作流天然支持账号网格 |
 | 后续回复容易丢失 | 可继续接入自动回复逻辑 |
 
+## 该选哪个：神经评论还是神经聊天
+
+| 如果你的目标是 | 更适合哪个 |
+|---|---|
+| 主要围绕频道新帖和讨论区做反应 | [神经评论](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-zh) |
+| 主要在群聊和聊天里做 AI 对话 | [神经聊天](https://github.com/Deskgram-2/telegram-neuro-chatting-deskgram) |
+| 先通过评论切入，再进入更深的对话 | 先神经评论，再神经聊天 |
+| 在多个接触点上同时使用 AI | 两个模块一起使用 |
+
+## 场景 FAQ
+
+### 文本模式该怎么选：模板、改写还是 AI？
+
+模板适合可重复、可控性更强的流程。改写模式适合在不偏离原始表达的前提下增加变化。AI 模式更适合让评论更贴近帖子内容、减少生硬感。
+
+### 什么时候值得接入自动回复？
+
+当评论不仅是为了露出，而是更大沟通链条的第一步时，就值得开启自动回复。这样可以把用户回复继续往后承接，而不是停在评论层。
+
+### 启动前最好具备什么样的基础环境？
+
+最好先准备好账号、共享设置和基本可用的基础设施。如果评论量更高，先检查 [代理管理](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-zh) 和账号网格会更稳。
+
 ## 相关仓库
 
 - [Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh)
