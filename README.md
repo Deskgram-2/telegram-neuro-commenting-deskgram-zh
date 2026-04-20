@@ -1,15 +1,15 @@
-# Deskgram 2 神经评论
+﻿# Deskgram 2 神经评论
 
 ![Neuro Commenting Main](assets/screenshots/neuro-commenting__main__zh.png)
 
 神经评论是 Deskgram 2 中用于 Telegram 新帖自动评论的模块。它把帖子监听、模板评论、AI 改写、内容生成、限额、延迟、讨论区进入和后续回复逻辑放在同一个流程里。
 
-[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=cn)
 ## 交互式 Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurocommenting)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurocommenting&lang=cn)
 
-在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurocommenting)
+在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurocommenting&lang=cn)
 
 如果你想先判断这个模块是否适合当前场景，可以先打开 web preview，在浏览器里看看界面结构，再决定是否继续安装和配置。
 
@@ -141,3 +141,4 @@
 ### 可以只针对指定频道吗？
 
 可以。模块支持按预先准备的频道列表执行。
+
